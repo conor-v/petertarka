@@ -4,3 +4,8 @@ html, body, #root, canvas {
   margin: 0;
   overflow: hidden;
 }
+
+.app {
+  width: 100%;
+  height: 100%;
+}
